@@ -1,0 +1,8 @@
+.Gif{
+  border: 3px solid #ffff;
+  margin-bottom: 55px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+}
